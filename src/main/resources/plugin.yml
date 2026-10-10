@@ -1,0 +1,10 @@
+name: CommandList
+version: 1.0.0
+main: com.elias.commandlist.CommandList
+api-version: '26.1'
+description: Zeigt alle verfuegbaren Plugin-Befehle, nach Plugin sortiert.
+
+commands:
+  commands:
+    description: Zeigt alle Befehle, die du benutzen darfst, nach Plugin sortiert
+    usage: /commands
